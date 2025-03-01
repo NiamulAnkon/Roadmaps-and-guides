@@ -7,6 +7,7 @@
 - [Competitive Programming Roadmap](#competitive-programming-roadmap)
 - [c++ roadmap](#c++-roadmap)
 - [custom roadmap](#custom-roadmap)
+- [Mathematics for Programming (cp)](#mathematics)
 
 --------------------------------------------------------------------
 ## DSA ROADMAP WITH C++
@@ -830,4 +831,85 @@ By following this roadmap, you will:
 ✅ Be prepared to choose between **Software Development or Pentesting** as a career.
 
 🚀 **Good luck on your journey! Stay consistent, and keep learning!** 🔥
+----------------------------------------------------------------------------------------------------------------
+# mathematics
+# 📊 Mathematics for Programming Roadmap
+
+## 📌 Phase 1: Foundational Math
+### ✅ 1. Number Theory
+- **Topics:** Prime Numbers, GCD/LCM, Modular Arithmetic, Euler's Totient Function, Fast Exponentiation
+- **Resources:**
+  - [Number Theory for Competitive Programming](https://cp-algorithms.com/)
+  - [Khan Academy: Number Theory](https://www.khanacademy.org/math/)
+
+### ✅ 2. Basic Algebra
+- **Topics:** Linear Equations, Polynomials, Logarithms, Progressions (AP, GP)
+- **Resources:**
+  - [Khan Academy: Algebra](https://www.khanacademy.org/math/algebra)
+  - [MIT OpenCourseWare: Algebra](https://ocw.mit.edu/courses/mathematics/)
+
+### ✅ 3. Probability & Combinatorics
+- **Topics:** Factorials, Permutations & Combinations, Binomial Coefficients, Probability Distributions
+- **Resources:**
+  - [Brilliant: Probability & Combinatorics](https://brilliant.org/)
+  - [MIT OCW: Probability](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-spring-2014/)
+
+---
+
+## 📌 Phase 2: Intermediate Mathematics
+### ✅ 4. Discrete Mathematics
+- **Topics:** Set Theory, Graph Theory, Recursion, Counting Principles, Boolean Algebra
+- **Resources:**
+  - [Discrete Mathematics by Kenneth Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0073383090)
+  - [MIT OCW: Discrete Math](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)
+
+### ✅ 5. Graph Theory
+- **Topics:** Trees, DFS, BFS, Dijkstra, Floyd-Warshall, Minimum Spanning Trees (Kruskal, Prim)
+- **Resources:**
+  - [CP Algorithms: Graph Theory](https://cp-algorithms.com/graph/)
+  - [MIT OCW: Graph Theory](https://ocw.mit.edu/courses/mathematics/)
+
+### ✅ 6. Linear Algebra
+- **Topics:** Matrices, Vectors, Eigenvalues, Linear Transformations
+- **Resources:**
+  - [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDOjZzFo14L3c8n0M2flWYHq)
+  - [MIT OCW: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+---
+
+## 📌 Phase 3: Advanced Mathematics for Programming
+### ✅ 7. Calculus (Useful in AI/ML & Graphics Programming)
+- **Topics:** Derivatives, Integrals, Limits, Differential Equations, Taylor Series
+- **Resources:**
+  - [Khan Academy: Calculus](https://www.khanacademy.org/math/calculus-1)
+  - [MIT OCW: Calculus](https://ocw.mit.edu/courses/mathematics/)
+
+### ✅ 8. Advanced Algorithms & Complexity
+- **Topics:** P vs NP, Computational Geometry, Convex Hull, FFT
+- **Resources:**
+  - [MIT OCW: Theory of Computation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)
+  - [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms)
+
+---
+
+## 📌 Phase 4: Specializations Based on Interest
+### ✅ AI & Machine Learning
+- **Topics:** Probability, Linear Algebra, Optimization, Neural Networks
+- **Resources:**
+  - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+  - [Stanford CS229: Machine Learning](http://cs229.stanford.edu/)
+
+### ✅ Cryptography & Security
+- **Topics:** Modular Arithmetic, RSA, Elliptic Curve Cryptography
+- **Resources:**
+  - [Crypto101](https://crypto101.io/)
+  - [Stanford Cryptography Course](https://online.stanford.edu/courses/cs255-introduction-cryptography)
+
+### ✅ Game Development & Graphics
+- **Topics:** Geometry, Bezier Curves, Transformations, Ray Tracing
+- **Resources:**
+  - [Mathematics for Game Developers - YouTube](https://www.youtube.com/c/MatthewShea/playlists)
+  - [OpenGL Math Tutorials](https://learnopengl.com/)
+
+🚀 **Consistently practice math problems & integrate these concepts into programming to improve problem-solving skills!** 
 
